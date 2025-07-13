@@ -12,4 +12,3 @@ Features
 - ✅ Mobile menu overlay
 - ✅ Contact form
 - ✅ Recent Blog's Table
-- 
