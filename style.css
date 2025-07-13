@@ -1,0 +1,141 @@
+h1 {
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff547c8c;
+    
+}
+.pink-bg{
+    background-color: #f887a1;
+}
+
+
+
+.nav-item:hover{
+    text-decoration: rgb(46, 131, 64);
+
+    
+}
+.ALL-BLOGS{
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c;
+    text-shadow: 2px 2px #0000008c;
+   
+}
+.political-blog {
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c;
+}
+.political-img {
+    -webkit-border-image: fill;
+    border-image: fill;
+    border-radius: 20%;
+    border: 5px solid #ff0c458c;
+    transition : transform 0.3s ease;
+    height:  260px;
+    width: 265px;
+}
+.sports-blog {
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c;
+}
+.sports-img {
+    -webkit-border-image: fill;
+    border-image: fill;
+    border-radius: 20%;
+    border: 5px solid #ff0c458c;
+    transition : transform 0.3s ease;
+    height:  260px;
+    width: 265px
+}
+.tech-blog {
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c;
+}
+.tech-img {
+    -webkit-border-image: fill;
+    border-image: fill;
+    border-radius: 20%;
+    border: 5px solid #ff0c458c;
+    transition : transform 0.3s ease;
+    height:  260px;
+    width: 265px
+}
+.text-white
+{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+}
+.logo-text:hover{
+    color: rgba(255, 26, 217, 0.549);
+    
+}.political-img:hover{
+    transform: scale(1.1);
+}
+.sports-img:hover{
+    transform: scale(1.1);
+}
+.tech-img:hover{
+    transform: scale(1.1);
+}
+.about-text {
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c;
+    margin-top: 10px;
+
+}
+.contact-form{
+    
+    color: #ff0c458c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ff0c458c; 
+
+}
+.nav-item:last-child {
+  margin-right: 0; /* removes extra spacing from last item */
+}
+.table-pink{
+    background-color: #ff547c8c;
+}
+.table-heading{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+  
+}
+
